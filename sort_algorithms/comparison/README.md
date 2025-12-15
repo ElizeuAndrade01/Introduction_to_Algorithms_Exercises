@@ -17,7 +17,7 @@ O gráfico abaixo foi gerado automaticamente pelo script de comparação deste r
 numeros aleatórios que vão de 0 a 99999.
 
 <p align="center">
-  <img src="../misc/comparacao_algoritmos.png" alt="Gráfico Comparativo" width="600"/>
+  <img src="../../misc/comparacao_algoritmos.png" alt="Gráfico Comparativo" width="600"/>
 </p>
 
 **Observações:**
