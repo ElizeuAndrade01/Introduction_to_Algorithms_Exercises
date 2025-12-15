@@ -40,10 +40,10 @@ class MergeSort:
                 self.A[k] = R[j]
                 j = j+1
 
-lista = [1,9,4,7,5,99,7,55,33,24,64,45,3,234,64,5]
+#lista = [1,9,4,7,5,99,7,55,33,24,64,45,3,234,64,5]
 
-merging = MergeSort(lista)
-print("Lista Original: ", lista)
+#merging = MergeSort(lista)
+#print("Lista Original: ", lista)
 
-merging.mergesort(0, len(lista)-1)
-print("Lista ordenada por Merge Sort: ", merging.A)
+#merging.mergesort(0, len(lista)-1)
+#print("Lista ordenada por Merge Sort: ", merging.A)
