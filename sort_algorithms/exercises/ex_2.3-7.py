@@ -8,8 +8,8 @@
 
 import random
 
-def Popular_Lista(n, qnt):
-    return n.append(random.randint(-50, 50) for _ in range(qnt))
+def Popular_Lista(n):
+    return [random.randint(-50, 50) for _ in range(n)]
 
 def algoritmo_soma(lista, valor):
     #Ordenando
